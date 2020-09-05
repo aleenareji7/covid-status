@@ -1,0 +1,1 @@
+export { retrieveCovidStatus } from './retrieveCovidStatus';
